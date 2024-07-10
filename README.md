@@ -1,4 +1,7 @@
 # GANs for Fraud Detection 
+
+![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-ND-4.0&color=green)
+
 ## Master's in Data Science and Engineering | Advanced Topics of Machine Learning
 
 Authors: [Cátia Teixeira](https://github.com/crdsteixeira) | [Henrique Ribeiro](https://github.com/henriquebr31) | [Ian Karkles](https://github.com/iankarkles) | [Vitor Pereira](https://github.com/vepereira7)
